@@ -1,2 +1,2 @@
 # IR-Decoder
-IR Decoder - AllI R transmission devices
+IR Decoder - All IR transmission devices
